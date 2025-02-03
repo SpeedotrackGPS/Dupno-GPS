@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "Para cálculo de distância";
+NSMicrophoneUsageDescription = "Para assistência de voz";
+PermissionGroupNotification = "Para notificação push";

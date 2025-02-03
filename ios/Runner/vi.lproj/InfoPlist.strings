@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "Để tính toán khoảng cách";
+NSMicrophoneUsageDescription = "Để được hỗ trợ bằng giọng nói";
+PermissionGroupNotification = "Để thông báo đẩy";
