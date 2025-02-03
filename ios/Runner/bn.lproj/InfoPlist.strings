@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "দূরত্ব গণনার জন্য";
+NSMicrophoneUsageDescription = "ভয়েস সহায়তার জন্য";
+PermissionGroupNotification = "পুশ বিজ্ঞপ্তির জন্য";

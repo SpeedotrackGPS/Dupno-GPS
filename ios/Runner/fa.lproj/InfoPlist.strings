@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "برای محاسبه فاصله";
+NSMicrophoneUsageDescription = "برای کمک صوتی";
+PermissionGroupNotification = "برای Push Notification";

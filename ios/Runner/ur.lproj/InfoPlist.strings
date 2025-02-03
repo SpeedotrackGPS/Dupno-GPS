@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "فاصلے کے حساب کتاب کے لیے";
+NSMicrophoneUsageDescription = "وائس اسسٹنس کے لیے";
+PermissionGroupNotification = "پش نوٹیفکیشن کے لیے";
